@@ -1,4 +1,4 @@
-# Code First Girls JavaScript Course
+# 3x3 Sliding Puzzle
 
 This is my homework assignment for week 15 of the Code First Girls (https://codefirstgirls.com) JavaScript course.
 
