@@ -1,6 +1,6 @@
 # 3x3 Sliding Puzzle (Cat-in-Bread)
 
-This is my homework assignment for week 15 of the Code First Girls (https://codefirstgirls.com) JavaScript course.
+This is my homework assignment for week 5 of the Code First Girls (https://codefirstgirls.com) JavaScript course.
 
 ### Links
 
