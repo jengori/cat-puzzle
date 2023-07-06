@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #BD4291;
+    font-family: "Carter One";
+}
+
+h1 {
+    text-align: center;
+    color: #FFC54D;
+}
+
+p {
+    text-align: center;
+    color: #FFC54D;
+    min-height: 30px;
+}
+
+
+
+.puzzle {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 5px;
+    margin: auto;
+    width: 80%;
+    max-width: 440px;
+    aspect-ratio: 4/3;
+    background-color: #FFC54D;
+    padding: 5px;
+    padding-bottom: 0px;
+}
+
+.completed {
+    background-color: #BD4291;
+    border: 10px solid #FFC54D;
+    padding: 0px;
+    column-gap: 0px;
+}
+
+img {
+    width: 100%;
+}
+
+@media (max-width: 468px) {
+    h1 {
+        font-size: 20px;
+        min-height: 50px;
+    }
+
+}
